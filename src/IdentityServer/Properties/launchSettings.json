@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "SelfHost": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:5001"
+    //  ,"ASPNETCORE_Kestrel__Certificates__Default__Password": "123mudar",
+    //   "ASPNETCORE_Kestrel__Certificates__Default__Path": "/home/leandro/workspace/net6/IS4/QuickStarts/certificados/localhost.pfx"
+    }
+  }
+}
